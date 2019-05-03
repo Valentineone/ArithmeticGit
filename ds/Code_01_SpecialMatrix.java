@@ -1,7 +1,5 @@
 package www.jisuanke.ds;
 
-import org.omg.CORBA.INTERNAL;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
